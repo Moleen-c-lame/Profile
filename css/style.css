@@ -23,4 +23,12 @@ h1#sitetitle{
   color:orange;
   text-allign:center;
 }
-/*styling site motto
+
+/*styling site motto*/
+span#sitemotto{
+  font-size:18px;
+  font-family:tahoma;
+  font-style:italic;
+  color:aqua;
+  text-allign:center;
+}
